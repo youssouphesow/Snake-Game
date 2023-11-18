@@ -1,8 +1,6 @@
 # Snake-Game
 
 # python programmers
-
-# Snake Game
 [Snake Game] est un jeu programmer avec du python.
 
 # Disponible sur youtube
